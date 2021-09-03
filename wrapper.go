@@ -11,7 +11,6 @@ import (
 
 /**
  * Created by Demons.
- * Contact: <lu.xu@zenjoy.net>
  * Date: 2021/1/14 14:30
  * Let's go~
  */

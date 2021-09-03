@@ -9,7 +9,6 @@ import (
 
 /**
  * Created by Demons.
- * Contact: <lu.xu@zenjoy.net>
  * Date: 2021/1/19 10:48
  * Let's go~
  */
